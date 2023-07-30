@@ -11,9 +11,8 @@ body{
     /*Cambio de tipografia*/
     font-family: 'Bacasime Antique', serif;
     font-family: 'Bebas Neue', sans-serif;     
-    justify-content: center;
-    margin:15px;
-    width: 20%;
+    margin:2%;
+    width: 100%;
 }
     
 img{
@@ -21,9 +20,12 @@ img{
 /* anchura */
 width: 20%;
 justify-content: center;
-text-align: center;
 }
 
+.presentacion{
+    width: 160%;
+    justify-content: center;
+    ]
 
 
 p{
