@@ -1,0 +1,57 @@
+/* 
+selector {
+    propiedad:valor;
+    propiedad:valor;
+    propiedad:valor;
+}*/
+
+body{
+    /*Color de fondo*/
+    background-color: rgb(230, 241, 232);
+    /*Cambio de tipografia*/
+    font-family: 'Bacasime Antique', serif;
+    font-family: 'Bebas Neue', sans-serif;     
+    justify-content: center;
+    margin:15px;
+    width: 20%;
+}
+    
+img{
+/* Cambiar tamaño de imágenes */
+/* anchura */
+width: 20%;
+justify-content: center;
+text-align: center;
+}
+
+
+
+p{
+    color: rgb(7, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Al editar una CLASE tiene que ir un punto */
+.p-erizos{
+    color: cadetblue;
+    
+}
+   
+.main.title{
+    font-family: 'Bacasime Antique', serif;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.menu{
+    /*Div flexible para meverse con elementos dentro de si*/
+    display: flex;
+    flex-direction: column-reverse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: beige;
+    justify-content: center;
+
+}
+
+.listas{
+    font-family: sans-serif;
+}
